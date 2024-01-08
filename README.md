@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'am Ismael Figueiredo 👋
 
-<!--
-**ismael-figueiredo/ismael-figueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a web developer, and i'm studyng web development at [Rocketseat](https://app.rocketseat.com.br/]).
 
-Here are some ideas to get you started:
+#### Current stack
+- 🌀 Main language: `Java script`
+- 📡 Backend: `Python`, `Nodejs`
+- 💻 Frontend: `Reactjs`, `CSS#`, `HTML5`
+- 🗃️ Version code control: `GIT & GitHub` 
+- 🎨 Layout design: `Figma`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- ✉️ Email: maelio617@gmail.com
+- 💼 Linkedin: https://www.linkedin.com/in/ismael-figueiredo-09689a211/
