@@ -12,5 +12,5 @@ I'm a web developer, and i'm studyng web development at [Rocketseat](https://app
 
 #### Contacts
 
-- ✉️ Email: maelio617@gmail.com
+- ✉️ Email: contato@ismaelfigueiredo.com
 - 💼 Linkedin: https://www.linkedin.com/in/ismael-figueiredo-09689a211/
