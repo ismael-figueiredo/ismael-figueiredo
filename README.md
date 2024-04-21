@@ -1,7 +1,7 @@
 ### Hi there, I'am Ismael Figueiredo 👋
 
 #### About
-I'm a web developer, and i'm studyng web development at [Rocketseat](https://app.rocketseat.com.br/]).
+I'm a fullstack developer.
 
 #### Current stack
 - 🌀 Main language: `Java script`
