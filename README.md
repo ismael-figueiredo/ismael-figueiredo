@@ -2,6 +2,14 @@
 
 #### About
 - 🔍 Full Stack Developer specializing in creating innovative and efficient solutions. With a passion for technology and a strong focus on results, I work to transform complex ideas into real, functional applications.
+- 
+ #### Current stack
+- 🌀 Languages: `Java Script, Type Script, Python`
+- 📡 Backend: `Flask`, `Nodej`, `Fastify`, `Express`, `SQL`, `Knex`, `SQLAlchemy`, `Docker` 
+- 📊 Data analysis: `Pandas - Python`, `Dash - Python`, `Plotly`
+- 💻 Frontend: `Reactjs`, `CSS3`, `HTML5`, `Styled Components`, `Tailwindcss`
+- 🗃️ Version code control: `GIT & GitHub` 
+- 🎨 Layout design: `Figma`
 
 ## **GitHub Statistics**
 
