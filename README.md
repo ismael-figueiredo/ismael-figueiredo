@@ -28,8 +28,8 @@
 
 #### Contacts
 
-- ✉️ Email: contato@ismaelfigueiredo.com
-- 💼 Linkedin: https://www.linkedin.com/in/ismael-figueiredo-09689a211/
+- ✉️ [Email](contato@ismaelfigueiredo.com)
+- 💼 [Linkedin](https://www.linkedin.com/in/ismael-figueiredo-09689a211)
 
 #### 📈 Check out my projects below to get an idea of my work and the solutions I have developed.
 
