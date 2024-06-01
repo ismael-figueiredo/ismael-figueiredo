@@ -17,9 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-figueiredo&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismael-figueiredo&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+<a href="https://app.rocketseat.com.br/me/ismael-figueiredo-00324"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=ismael-figueiredo-00324&type=card" width="280" alt="ismael figueiredo's Rocket ID"/></a>
 
 ![pv](https://pageview.vercel.app/?github_user=ismael-figueiredo)
 
